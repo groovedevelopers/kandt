@@ -7,8 +7,13 @@
     "lint": "prettier --check \"src/**/*.js\""
   },
   "dependencies": {
+    "firebase": "^8.1.2",
     "lit-element": "^2.3.1",
-    "lit-html": "^1.2.1"
+    "lit-html": "^1.2.1",
+    "page": "^1.11.6",
+    "rxfire": "^4.0.0",
+    "rxjs": "^6.6.3",
+    "subsink": "^1.0.2"
   },
   "devDependencies": {
     "@babel/plugin-proposal-class-properties": "^7.10.4",
